@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Eigen.wear
 
 A digital closet that runs entirely in your browser. Photograph your clothes, and Eigen.wear plans colour-matched outfits for the week.
